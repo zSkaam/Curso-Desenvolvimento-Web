@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: orange;
+}
+
+button{
+background-color: black;
+color: white;
+}
+
+h1{
+    margin-top: 30px;
+}
+
+input, select, button{
+    margin: 10px;
+}
+
+#result {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.separar{
+    padding: 10px 20px;
+
+}
