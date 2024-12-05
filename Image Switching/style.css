@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+   Font-family: 'Courier New', Courier, monospace;
+   }
+
+img{
+    max-width: 70%;
+    height:auto;
+    display:block;
+    margin: 0 auto;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: block;
+    margin: 15px auto;
+}
