@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+}
+
+#display {
+  font-size: 5em;
+  margin-bottom: 0.5em;
+}
+
+button {
+  font-size: 1.5em;
+  padding: 0.5em 1em;
+  margin: 0 0.5em;
+}
+
+body {
+  background-color: aquamarine;
+}
